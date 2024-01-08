@@ -1,5 +1,6 @@
 import { Test, TestingModule } from '@nestjs/testing';
 import { AdminService } from './admin.service';
+import '@types/jest';
 
 describe('AdminService', () => {
   let service: AdminService;

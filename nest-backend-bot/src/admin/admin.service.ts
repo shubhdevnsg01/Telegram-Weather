@@ -4,7 +4,7 @@ import { Injectable } from '@nestjs/common';
 
 @Injectable()
 export class AdminService {
-  private apiKey = '3afaf6d8497970c3796e7353691b1f4a'; // Initial API key
+  private apiKey = '598f5819c76a6bbb83c10464726534f7'; // Initial API key
   private users: string[] = []; // Store user data here
 
   getApiKey(): string {

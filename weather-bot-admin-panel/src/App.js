@@ -119,7 +119,7 @@ function App() {
 
       {/* Footer */}
       <Typography variant="body2" style={{ marginTop: '20px' }}>
-        You can find the bot at: <Link href="https://telegram-link-to-bot" target="_blank" rel="noopener noreferrer">https://telegram-link-to-bot</Link>
+        You can find the bot at: <Link href="https://web.telegram.org/k/#@PetrifiedManiac_bot" target="_blank" rel="noopener noreferrer">https://telegram-link-to-bot</Link>
       </Typography>
     </Container>
   );
