@@ -17,22 +17,13 @@ Before running the project, make sure you have the following installed:
 - [MongoDB](https://www.mongodb.com/)
 - [npm](https://www.npmjs.com/)
 
-## Getting Started
+
 
 ### Installation
 
 1. Clone the repository:
 2. Run the Admin Dashboard
-    ```
-   cd weather-bot-telegram
-   npm install
-   ```
-    ``
-    
 4. Start the Nest.js application:
-    ```
-    npm start
-    ```
 5. Your Telegram bot is now running and ready to receive commands.
 
 6. Users can interact with the bot by sending commands like /subscribe and /unsubscribe.
