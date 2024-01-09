@@ -25,6 +25,7 @@ CITY=YOUR_DEFAULT_CITY
 MONGODB_URI=YOUR_MONGODB_CONNECTION_URI
 OPENWEATHERMAP_API_KEY=YOUR_OPENWEATHERMAP_API_KEY
 ---
+I have added a notepad file with the details for you perusal just copy paste it 
 ### Installation
 
 1. Clone the repository:
