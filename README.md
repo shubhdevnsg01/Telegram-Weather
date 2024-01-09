@@ -17,7 +17,13 @@ Before running the project, make sure you have the following installed:
 - [MongoDB](https://www.mongodb.com/)
 - [npm](https://www.npmjs.com/)
 
+### Remember
+Create a .env file in the project root and configure your environment variables:
 
+TELEGRAM_BOT_TOKEN=YOUR_TELEGRAM_BOT_TOKEN
+CITY=YOUR_DEFAULT_CITY
+MONGODB_URI=YOUR_MONGODB_CONNECTION_URI
+OPENWEATHERMAP_API_KEY=YOUR_OPENWEATHERMAP_API_KEY
 
 ### Installation
 
