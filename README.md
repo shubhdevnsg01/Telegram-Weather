@@ -40,4 +40,11 @@ the email id and password for logging in are:
 newsingh990@gmail.com
 #Shubham2001
 
-    
+###Note:
+while cloning this repository in another laptop i found some dependency issues in the front end, if you face a similiar problem then do this step by step :
+---
+cd weather-bot-admin-panel
+npm install --legacy-peer-deps
+npm start
+---
+this should work still if you face any problem please contact me on iamshubhamsingh26@gmail.com 
