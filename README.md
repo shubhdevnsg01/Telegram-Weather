@@ -3,8 +3,7 @@
 Weather Bot Telegram is a Telegram bot built using Nest.js that provides weather updates to subscribed users. Users can register to receive weather updates for a specific city.
 
 
-- Users can subscribe to receive weather updates.
-- Weather updates are sent periodically to subscribed users.
+- Users can subscribe to receive weather updates of the city mentioned in the env file.
 - Users can unsubscribe to stop receiving weather updates.
 - MongoDB is used to store user data.
 - Integration with the OpenWeatherMap API for weather data.
