@@ -24,10 +24,13 @@ Before running the project, make sure you have the following installed:
 1. Clone the repository:
 2. Run the Admin Dashboard
 4. Start the Nest.js application:
-5. Your Telegram bot is now running and ready to receive commands.
+5. Login by the email id and password given
+6. Your Telegram bot is now running and ready to receive commands.
+7. Users can interact with the bot by sending commands like /subscribe and /unsubscribe.
 
-6. Users can interact with the bot by sending commands like /subscribe and /unsubscribe.
-
-
+## Important
+the email id and password for logging in are:
+newsingh990@gmail.com
+#Shubham2001
 
     
