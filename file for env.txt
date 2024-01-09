@@ -1,0 +1,6 @@
+copy paste this in an .env file in the root
+
+TELEGRAM_BOT_TOKEN=6924498547:AAHmmyFeF4mQX3P2PuT9fdx8In0YonCOwoQ
+WEATHER_API_KEY=598f5819c76a6bbb83c10464726534f7
+CITY='London'
+DATABASE_CONNECTION_STRING='mongodb+srv://singh22:12345@cluster0.4ed2zds.mongodb.net/?retryWrites=true&w=majority'
