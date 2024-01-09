@@ -9,6 +9,7 @@
     "mongoose": "^8.0.3",
     "node-cron": "^3.0.3",
     "node-telegram-bot-api": "^0.64.0",
+    "react-router-dom": "^6.21.1",
     "supertest": "^6.3.3"
   },
   "devDependencies": {
